@@ -1,0 +1,8 @@
+python-telegram-bot
+telethon
+openai
+urlextract
+gspread
+oauth2client
+configparser
+logger
